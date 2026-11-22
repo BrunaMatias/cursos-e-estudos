@@ -9,7 +9,7 @@ Os meus projetos principais estão em repositórios próprios no meu [perfil do 
 | Pasta | Origem | O que tem | Tecnologias |
 | --- | --- | --- | --- |
 | [alura](./alura) | Alura | Data Science com Python e SQL | Python, Pandas, SQL, Jupyter |
-| [dio](./dio) | DIO | Machine Learning com Python e exercícios de Python com listas, dicionários e banco de dados (pasta `python-projetos`) | Python, scikit-learn, Jupyter |
+| [dio](./dio) | DIO | Machine Learning (detecção de objetos com YOLO, predição de diabetes, redução de dimensionalidade) e Python (sistema bancário, orientação a objetos, listas, dicionários e banco de dados) | Python, scikit-learn, Jupyter |
 | [bootcamp-data-science](./bootcamp-data-science) | Bootcamp | Introdução à Data Science | Python, Jupyter |
 | [desenvolvimento-web](./desenvolvimento-web) | Estudos próprios | Portfólio, formulário de login e app de clima | HTML, CSS |
 
